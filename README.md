@@ -67,7 +67,7 @@ E-Commerce_Manual_Testing_Project
 |--------|-------------|
 | Test Plan | Defines scope, strategy, and approach |
 | Test Scenarios | High-level testing conditions (28 scenarios) |
-| Test Cases | Detailed test steps (50+ cases) |
+| Test Cases | Detailed test steps (23 cases) |
 | Defect Log | 6 realistic defects with severity & priority |
 | Test Summary Report | Final testing summary |
 
